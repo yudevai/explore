@@ -4,3 +4,6 @@
 [submodule "AI/wshobson_agents"]
 	path = AI/wshobson_agents
 	url = git@github.com:wshobson/agents.git
+[submodule "SLIDES/slidevjs_slidev"]
+	path = SLIDES/slidevjs_slidev
+	url = git@github.com:slidevjs/slidev.git
