@@ -1,0 +1,3 @@
+[submodule "AI/ruflo"]
+	path = AI/ruflo
+	url = git@github.com:ruvnet/ruflo.git
