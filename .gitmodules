@@ -1,3 +1,6 @@
 [submodule "AI/ruflo"]
 	path = AI/ruflo
 	url = git@github.com:ruvnet/ruflo.git
+[submodule "AI/wshobson_agents"]
+	path = AI/wshobson_agents
+	url = git@github.com:wshobson/agents.git
