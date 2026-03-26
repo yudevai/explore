@@ -7,3 +7,6 @@
 [submodule "SLIDES/slidevjs_slidev"]
 	path = SLIDES/slidevjs_slidev
 	url = git@github.com:slidevjs/slidev.git
+[submodule "CLAUDE/web-werkstatt_ai-context-optimizer"]
+	path = CLAUDE/web-werkstatt_ai-context-optimizer
+	url = git@github.com:web-werkstatt/ai-context-optimizer.git
