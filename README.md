@@ -20,3 +20,9 @@ _Common Repo which can be cloned to integrate Agents and Skills from Available P
 /plugin install figma@claude-plugins-official
 
 /plugin install terraform@claude-plugins-official
+
+
+**For ui-ux-pro, install it locally by running these commands in PowerShell:**
+ 
+npm install -g uipro-cli
+uipro init --ai claude
