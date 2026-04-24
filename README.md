@@ -27,3 +27,12 @@ _Common Repo which can be cloned to integrate Agents and Skills from Available P
 npm install -g uipro-cli
 
 uipro init --ai claude
+
+
+**Useful Commands Must Know when working on claude code**
+
+/model opusplan
+
+/compact
+
+ultrathink
