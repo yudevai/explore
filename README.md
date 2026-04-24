@@ -35,4 +35,10 @@ uipro init --ai claude
 
 /compact
 
+/context
+
+/clear
+
+/rewind
+
 ultrathink
