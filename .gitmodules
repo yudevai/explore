@@ -22,3 +22,6 @@
 [submodule "CLAUDE/SUPER_POWERS"]
 	path = CLAUDE/SUPER_POWERS
 	url = https://github.com/obra/superpowers.git
+[submodule "CLAUDE/CAVEMAN"]
+	path = CLAUDE/CAVEMAN
+	url = https://github.com/JuliusBrussee/caveman.git
