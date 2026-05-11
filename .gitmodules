@@ -25,3 +25,6 @@
 [submodule "CLAUDE/CAVEMAN"]
 	path = CLAUDE/CAVEMAN
 	url = https://github.com/JuliusBrussee/caveman.git
+[submodule "CLAUDE/EVERYTHING_CLAUDE_CODE"]
+	path = CLAUDE/EVERYTHING_CLAUDE_CODE
+	url = https://github.com/affaan-m/everything-claude-code.git
