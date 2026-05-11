@@ -28,3 +28,6 @@
 [submodule "CLAUDE/EVERYTHING_CLAUDE_CODE"]
 	path = CLAUDE/EVERYTHING_CLAUDE_CODE
 	url = https://github.com/affaan-m/everything-claude-code.git
+[submodule "CLAUDE/WARP"]
+	path = CLAUDE/WARP
+	url = https://github.com/warpdotdev/warp.git
