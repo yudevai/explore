@@ -28,3 +28,6 @@
 [submodule "CLAUDE/RUFLO"]
 	path = CLAUDE/RUFLO
 	url = https://github.com/ruvnet/ruflo.git
+[submodule "CLAUDE/AGENTS"]
+	path = CLAUDE/AGENTS
+	url = https://github.com/wshobson/agents.git
