@@ -10,3 +10,6 @@
 [submodule "CLAUDE/web-werkstatt_ai-context-optimizer"]
 	path = CLAUDE/web-werkstatt_ai-context-optimizer
 	url = git@github.com:web-werkstatt/ai-context-optimizer.git
+[submodule "CLAUDE/UI_UX_PRO"]
+	path = CLAUDE/UI_UX_PRO
+	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
