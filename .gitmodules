@@ -19,3 +19,6 @@
 [submodule "CLAUDE/GIT_NEXUS"]
 	path = CLAUDE/GIT_NEXUS
 	url = https://github.com/abhigyanpatwari/GitNexus.git
+[submodule "CLAUDE/SUPER_POWERS"]
+	path = CLAUDE/SUPER_POWERS
+	url = https://github.com/obra/superpowers.git
