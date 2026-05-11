@@ -25,3 +25,6 @@
 [submodule "CLAUDE/WARP"]
 	path = CLAUDE/WARP
 	url = https://github.com/warpdotdev/warp.git
+[submodule "CLAUDE/RUFLO"]
+	path = CLAUDE/RUFLO
+	url = https://github.com/ruvnet/ruflo.git
