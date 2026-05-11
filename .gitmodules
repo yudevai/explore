@@ -13,3 +13,6 @@
 [submodule "CLAUDE/UI_UX_PRO"]
 	path = CLAUDE/UI_UX_PRO
 	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git
+[submodule "CLAUDE/CODE_BURN"]
+	path = CLAUDE/CODE_BURN
+	url = https://github.com/getagentseal/codeburn.git
