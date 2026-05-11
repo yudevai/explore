@@ -16,3 +16,6 @@
 [submodule "CLAUDE/CODE_BURN"]
 	path = CLAUDE/CODE_BURN
 	url = https://github.com/getagentseal/codeburn.git
+[submodule "CLAUDE/GIT_NEXUS"]
+	path = CLAUDE/GIT_NEXUS
+	url = https://github.com/abhigyanpatwari/GitNexus.git
