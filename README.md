@@ -46,4 +46,11 @@ uipro init --ai claude
 
 /rewind
 
-ultrathink
+/ultrathink
+
+
+**Model Planning**
+
+claude --model opusplan --reasoning-effort max
+
+Link: https://code.claude.com/docs/en/model-config
