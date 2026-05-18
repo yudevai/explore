@@ -82,6 +82,32 @@ uipro init --ai claude
 
 /ultrathink
 
+/godmode
+
+/ghost
+
+/artifacts
+
+/ooda
+
+/devil
+
+/matrix
+
+/brief
+
+/roast
+
+/steal
+
+/silent
+
+/expert
+
+/plan
+
+/synthesize
+
 
 **Model Planning**
 
